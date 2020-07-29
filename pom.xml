@@ -31,12 +31,6 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web-services</artifactId>
 		</dependency>
-<!-- https://mvnrepository.com/artifact/com.oracle.jdbc/ojdbc8 -->
-		<dependency>
-		    <groupId>com.oracle</groupId>
-		    <artifactId>ojdbc8</artifactId>
-		    <version>12.2.0.1</version>
-		</dependency>
 		<!--- JSTL 필요 : JSTL Dependency를 Maven에 추가해줘야 함.-->
 		<dependency>
 		    <groupId>javax.servlet</groupId>
