@@ -21,7 +21,7 @@
 						<li><a href="/" id="top-link"><span class="icon solid fa-home">HOME</span></a></li>
 						<li><a href="/backGroundMap.do" id="portfolio-link"><span class="icon solid fa-th">배경지도</span></a></li>
 						<li><a href="#about" id="about-link"><span class="icon solid fa-user">About Me</span></a></li>
-						<li><a href="/updateMap.do" id="contact-link"><span class="icon solid fa-envelope">updateMap</span></a></li>
+						<li><a href="/updateMap.do" id="contact-link"><span class="icon solid fa-envelope">covid19</span></a></li>
 					</ul>
 				</nav>
 		</div>
